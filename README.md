@@ -1,6 +1,6 @@
 # ꧁𓊈🍃KarBot🍃𓊉꧂
 
-Bot de WhatsApp compatible con Termux, Replit, Sky Ultra Plus y más.
+Bot de WhatsApp
 
 ## 🚀 Características
 
