@@ -1,4 +1,4 @@
-# ꧁𓊈🍃KarBot🍃𓊉꧂
+# ꧁𓊈🍃Kar-Bot🍃𓊉꧂
 
 Bot de WhatsApp
 
